@@ -4,10 +4,12 @@
 </p>
 
 ## About US
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin efficitur risus nec sem pulvinar egestas. 
-Aenean vel arcu vel arcu consequat laoreet. Cras neque ligula, pretium ac odio nec, ornare pellentesque est. 
-Nunc consectetur mauris eu luctus lacinia. Aliquam erat volutpat. Integer eget lacinia magna, ac congue felis. 
-Phasellus eleifend rhoncus consequat. Phasellus quis ullamcorper ligula. Pellentesque tincidunt odio at finibus volutpat. 
+We are just a small group intrested in Cibersecurity, Reverse Engineering, Disassembly, Windows/Android Internals, Exploitations, Penetration Test and more...
+
+## Language Used
+```
+C, C++, Typescript, 
+```
 
 ## Stay Connected
 Discord: gmail ect...
