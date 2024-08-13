@@ -4,7 +4,7 @@
 </p>
 
 ## About US
-We are just a small group intrested in Cibersecurity, Reverse Engineering, Disassembly, Windows/Android Internals, Exploitations, Penetration Test and more...
+We are just a small group intrested in Cibersecurity, Vulnerability, Reverse Engineering, Disassembly, Windows/Android Internals, Exploitations, Penetration Test and more...
 
 ## Language Used
 ```
@@ -12,4 +12,4 @@ C, C++, Typescript,
 ```
 
 ## Stay Connected
-Discord: gmail ect...
+Contact Us at
